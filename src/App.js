@@ -10,7 +10,6 @@ function App(){
         <Route path = "/" element = {<GuestMode/>}></Route>
       </Routes>
     </Router>
-  
 )
 }
 export default App;
